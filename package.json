@@ -29,7 +29,7 @@
     "@uiw/react-codemirror": "^4.21.25",
     "classnames": "^2.5.1",
     "console-feed": "^3.5.0",
-    "next": "14.1.4",
+    "next": "^14.2.23",
     "react": "^18",
     "react-dom": "^18",
     "react-icons": "^5.0.1",
