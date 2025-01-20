@@ -65,6 +65,9 @@ export default function HomePage() {
                 <h2 className="mt-2 tracking-wide text-[#4d4d4d] dark:text-white">
                   A no-fuss JavaScript playground with instant feedback.
                 </h2>
+                <h2 className="mt-2 tracking-wide text-[#4d4d4d] dark:text-white">
+                  Note: this works on localhost, but not on Vercel. Dunno why...
+                </h2>
               </hgroup>
 
               <div
